@@ -2,9 +2,8 @@
   "name": "test",
   "displayName": "TestUPM",
   "unity": "2019.2",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "description": "InceptionXR gamekit package",
   "version": "1.0.0",
-  "dependencies": {
-
-  }
+  "type": "library"
 }
