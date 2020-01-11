@@ -1,8 +1,9 @@
 name: CI
 on: 
   push:
-    tags: 
-      - release/*
+    # TODO: uncomment
+#     tags: 
+#       - release/*
     branches:
       - master
 
