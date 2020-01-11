@@ -1,9 +1,10 @@
 {
-  "name": "test",
+  "name": "@jonlevin25/test",
   "displayName": "TestUPM",
   "unity": "2019.2",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-  "description": "InceptionXR gamekit package",
+  "repository": "git@github.com:JonLevin25/TestUPM.git",
+  "description": "Test package",
   "version": "1.0.0",
   "type": "library"
 }
